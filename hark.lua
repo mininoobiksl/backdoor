@@ -68,7 +68,7 @@ top_2.BackgroundTransparency = 1
 top_2.Position = UDim2.new(0.154639184, 0, -0.333333343, 0)
 top_2.Size = UDim2.new(0, 200, 0, 50)
 top_2.Font = Enum.Font.SourceSansLight
-top_2.Text = "Harked"
+top_2.Text = "Harked edited for vehicle game"
 top_2.TextColor3 = Color3.new(1, 1, 1)
 top_2.TextSize = 45
 
@@ -91,7 +91,7 @@ credits.BackgroundTransparency = 1
 credits.Position = UDim2.new(0, 0, 1, 0)
 credits.Size = UDim2.new(0, 291, 0, 23)
 credits.Font = Enum.Font.SourceSansLight
-credits.Text = "Commands/Scripts by Dong , UI by Unverified"
+credits.Text = "Commands/Scripts by Dong , UI by Unverified EDIT BY MINI NOOBIK SL"
 credits.TextColor3 = Color3.new(1, 1, 1)
 credits.TextSize = 17
 credits.TextWrapped = true
